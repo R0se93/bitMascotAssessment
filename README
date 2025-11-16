@@ -1,0 +1,9 @@
+Playwright Automation - Login, Add Cart and Logout Test
+
+e2e automated test using Playwright(Javascript) on the demo site SauceDemo.
+
+The test performs following flow:
+1. Log in with valid credentials.
+2. Add an item to the cart.
+3. Verify the product name in the cart.
+4. Log out successfully.
